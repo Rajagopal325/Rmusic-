@@ -54,7 +54,7 @@
   .paddingBottomMobile-fifty{
       padding-bottom:50px !important;
   }
-}
+} 
 
 @media screen and (min-width: 992px){
   .paddingTopDesktop-zero{
