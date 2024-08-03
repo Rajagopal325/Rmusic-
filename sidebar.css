@@ -1,0 +1,140 @@
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 200px;
+  background-color: #bd1a9a;
+  padding: 15px;
+  padding-top: 0px;
+  text-transform: uppercase;
+  font-weight: bolder;
+  z-index: 1;
+}
+
+.sidebar .logo img {
+  padding: 0px;
+  width: 200px;
+  border: solid;
+  border-color: rgb(130, 203, 230);
+  border-radius: 20px;
+  background-color: rgb(225, 9, 182);
+}
+
+.sidebar .navigation ul {
+  list-style: none;
+  margin-top: 20px;
+}
+
+.sidebar .navigation ul li {
+  padding: 10px 0px;
+}
+
+.sidebar .navigation ul li a {
+  color: #b3b3b3;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.sidebar .navigation ul li .fa,
+.fa-brands {
+  font-size: 20px;
+  margin-right: 30px;
+  color: #b3b3b3;
+}
+
+.sidebar .navigation ul li a:hover {
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.sidebar .policies {
+  position: absolute;
+  bottom: 10px;
+}
+
+.sidebar .policies ul {
+  list-style: none;
+}
+
+.sidebar .policies ul li {
+  padding-bottom: 5px;
+}
+
+.sidebar .policies ul li a {
+  color: #292626;
+}
+
+@media screen and (max-width: 991px){
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 30px;
+    background-color: #bd1a9a;
+    padding-bottom: 10px;
+    padding-left: 1px;
+    padding-top: 0px;
+    text-transform: uppercase;
+    font-weight: bolder;
+    z-index: 2;
+  }
+  
+  .sidebar .logo img {
+    padding-right: 0px;
+    width: 40px;
+    border: solid;
+    border-color: rgb(130, 203, 230);
+    border-radius: 20px;
+    background-color: rgb(225, 9, 182);
+  }
+  
+  .sidebar .navigation ul {
+    list-style: none;
+    margin-top: 20px;
+  }
+  
+  .sidebar .navigation ul li {
+    padding: 10px 0px;
+  }
+  
+  .sidebar .navigation ul li a {
+    color: #b3b3b3;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 7px;
+  }
+  
+  .sidebar .navigation ul li .fa,
+  .fa-brands {
+    font-size: 20px;
+    margin-right: 30px;
+    color: #b3b3b3;
+  }
+  
+  .sidebar .navigation ul li a:hover {
+    color: #ffffff;
+    font-size: 8px;
+  }
+  
+  .sidebar .policies {
+    position: absolute;
+    bottom: 10px;
+    font-size: 6px;
+  }
+  
+  .sidebar .policies ul {
+    list-style: none;
+  }
+  
+  .sidebar .policies ul li {
+    padding-bottom: 5px;
+  }
+  
+  .sidebar .policies ul li a {
+    color: #292626;
+  }
+  
+}

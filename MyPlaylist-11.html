@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0" />
+    <title>MyMusic || Rajagopal</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+      integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer" />
+
+    <link
+      rel="stylesheet"
+      href="./Playall.css" />
+    <link
+      rel="shortcut icon"
+      href="./assets/LOGO-Screenshot 2024-07-30 211925.png"
+      type="image/x-icon" />
+  </head>
+  <body>
+    <div class="box center">
+      <span
+        ><img
+          src="./assets/Mymusic_Logo-removebg-preview.png"
+          alt="Logo missing"
+          class="logo-img" />
+      </span>
+      <div class="box-1 center">
+        <h4 id="name">Artist</h4>
+        <div class="art">
+          <img
+            class="center"
+            id="artist"
+            src="./images/Orange-Telugu-2006-20210624180302-500x500.jpg"
+            alt="img missing" />
+        </div>
+        <div class="art-name">
+        <p class="title">Rooba Rooba song from Orange Telugu</p>
+        </div>
+        <div class="prog">
+          <div class="time">
+            <div class="start">
+              <p id="start">0.00</p>
+            </div>
+            <div class="end">
+              <p id="end">0.00</p>
+            </div>
+          </div>
+          <div class="line">
+            <div class="lineChild"></div>
+          </div>
+        </div>
+        <div class="msc center">
+          <div
+            class="ctrl center"
+            onclick="backward()"
+            id="back">
+            <a href="./music.html"><i class="fa-solid fa-step-backward"></i></a>
+          </div>
+          <div
+            class="ctrl center"
+            id="playsong">
+            <i class="fa-solid fa-play yes"></i>
+            <i class="fa-solid fa-pause none"></i>
+          </div>
+          <div
+            class="ctrl center"
+            onclick="forward()"
+            id="forw">
+            <a href="./music.html"><i class="fa-solid fa-step-forward"></i></a>
+          </div>
+          <audio
+            src="./Music/6-Rooba Rooba-SenSongsMp3.Co.mp3"
+            class="song"></audio>
+        </div>
+        <!-- <div class="auto-play">
+          <i class="fa-solid fa-repeat"></i>
+          <i class="fa-solid fa-shuffle none"></i>
+        </div> -->
+      </div>
+    </div>
+
+    <!-- Add Javascript File -->
+    <script src="./js.jsx"></script>
+  </body>
+</html>
