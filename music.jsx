@@ -48,8 +48,8 @@ function effect() {
 // });
 
 function playMusic() {
-  ttl.classList.toggle("run");
-  pauses.classList.toggle("yes");
+  ttl.classList.toggle("run yes");
+  pauses.classList.toggle("none yes");
   art_img.classList.toggle("round");
   ad.play();
   setInterval(prog, 1000);
