@@ -22,7 +22,7 @@ function effect() {
     ad.play();
     setInterval(prog, 1000);
     setInterval(line, 1000);
-    progress.addEventListener("mouseover", (e) => {
+    progress.addEventListener("click", (e) => {
       var widthbar2 = (e.offsetX / e.target.clientWidth) * ad.duration;
       ad.currentTime = widthbar2;
     });
@@ -47,10 +47,10 @@ function effect() {
 //   forward();
 // });
 
-function playMusic() {
-  ttl.classList.toggle("run yes");
-  pauses.classList.toggle("none yes");
-  art_img.classList.toggle("round");
+function playMusic()  {
+  ttl.classList.add("run");
+  pauses.classList.toggle("yes");
+  art_img.classList.add("round");
   ad.play();
   setInterval(prog, 1000);
   setInterval(line, 1000);
