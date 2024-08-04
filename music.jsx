@@ -22,7 +22,7 @@ function effect() {
     ad.play();
     setInterval(prog, 1000);
     setInterval(line, 1000);
-    progress.addEventListener("click", (e) => {
+    progress.addEventListener("mouseover", (e) => {
       var widthbar2 = (e.offsetX / e.target.clientWidth) * ad.duration;
       ad.currentTime = widthbar2;
     });

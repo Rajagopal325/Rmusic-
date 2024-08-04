@@ -50,6 +50,76 @@ const artist_name = [
   "Artist 48",
   "Artist 49",
   "Artist 50",
+  // "Artist 51",
+  // "Artist 52",
+  // "Artist 53",
+  // "Artist 54",
+  // "Artist 55",
+  // "Artist 56",
+  // "Artist 57",
+  // "Artist 58",
+  // "Artist 59",
+  // "Artist 60",
+  // "Artist 61",
+  // "Artist 62",
+  // "Artist 63",
+  // "Artist 64",
+  // "Artist 65",
+  // "Artist 66",
+  // "Artist 67",
+  // "Artist 68",
+  // "Artist 69",
+  // "Artist 70",
+  // "Artist 71",
+  // "Artist 72",
+  // "Artist 73",
+  // "Artist 74",
+  // "Artist 75",
+  // "Artist 76",
+  // "Artist 77",
+  // "Artist 78",
+  // "Artist 79",
+  // "Artist 80",
+  // "Artist 81",
+  // "Artist 82",
+  // "Artist 83",
+  // "Artist 84",
+  // "Artist 85",
+  // "Artist 86",
+  // "Artist 87",
+  // "Artist 88",
+  // "Artist 89",
+  // "Artist 90",
+  // "Artist 91",
+  // "Artist 92",
+  // "Artist 93",
+  // "Artist 94",
+  // "Artist 95",
+  // "Artist 96",
+  // "Artist 97",
+  // "Artist 98",
+  // "Artist 99",
+  // "Artist 100",
+  // "Artist 101",
+  // "Artist 102",
+  // "Artist 103",
+  // "Artist 104",
+  // "Artist 105",
+  // "Artist 106",
+  // "Artist 107",
+  // "Artist 108",
+  // "Artist 109",
+  // "Artist 110",
+  // "Artist 111",
+  // "Artist 112",
+  // "Artist 113",
+  // "Artist 114",
+  // "Artist 115",
+  // "Artist 116",
+  // "Artist 117",
+  // "Artist 118",
+  // "Artist 119",
+  // "Artist 120",
 ];
 
 const artist_title = [
@@ -104,6 +174,76 @@ const artist_title = [
   "Song-48 from Movie 48 (telugu)",
   "Song-49 from Movie 49 (telugu)",
   "Song-50 from Movie 50 (telugu)",
+  // "Song-51 from Movie 51 (telugu)",
+  // "Song-52 from Movie 52 (telugu)",
+  // "Song-53 from Movie 53 (telugu)",
+  // "Song-54 from Movie 54 (telugu)",
+  // "Song-55 from Movie 55 (telugu)",
+  // "Song-56 from Movie 56 (telugu)",
+  // "Song-57 from Movie 57 (telugu)",
+  // "Song-58 from Movie 58 (telugu)",
+  // "Song-59 from Movie 59 (telugu)",
+  // "Song-60 from Movie 60 (telugu)",
+  // "Song-61 from Movie 61 (telugu)",
+  // "Song-62 from Movie 62 (telugu)",
+  // "Song-63 from Movie 63 (telugu)",
+  // "Song-64 from Movie 64 (telugu)",
+  // "Song-65 from Movie 65 (telugu)",
+  // "Song-66 from Movie 66 (telugu)",
+  // "Song-67 from Movie 67 (telugu)",
+  // "Song-68 from Movie 68 (telugu)",
+  // "Song-69 from Movie 69 (telugu)",
+  // "Song-70 from Movie 70 (telugu)",
+  // "Song-71 from Movie 71 (telugu)",
+  // "Song-72 from Movie 72 (telugu)",
+  // "Song-73 from Movie 73 (telugu)",
+  // "Song-74 from Movie 74 (telugu)",
+  // "Song-75 from Movie 75 (telugu)",
+  // "Song-76 from Movie 76 (telugu)",
+  // "Song-77 from Movie 77 (telugu)",
+  // "Song-78 from Movie 78 (telugu)",
+  // "Song-79 from Movie 79 (telugu)",
+  // "Song-80 from Movie 80 (telugu)",
+  // "Song-81 from Movie 81 (telugu)",
+  // "Song-82 from Movie 82 (telugu)",
+  // "Song-83 from Movie 83 (telugu)",
+  // "Song-84 from Movie 84 (telugu)",
+  // "Song-85 from Movie 85 (telugu)",
+  // "Song-86 from Movie 86 (telugu)",
+  // "Song-87 from Movie 87 (telugu)",
+  // "Song-88 from Movie 88 (telugu)",
+  // "Song-89 from Movie 89 (telugu)",
+  // "Song-90 from Movie 90 (telugu)",
+  // "Song-91 from Movie 91 (telugu)",
+  // "Song-92 from Movie 92 (telugu)",
+  // "Song-93 from Movie 93 (telugu)",
+  // "Song-94 from Movie 94 (telugu)",
+  // "Song-95 from Movie 95 (telugu)",
+  // "Song-96 from Movie 96 (telugu)",
+  // "Song-97 from Movie 97 (telugu)",
+  // "Song-98 from Movie 98 (telugu)",
+  // "Song-99 from Movie 99 (telugu)",
+  // "Song-100 from Movie 100 (telugu)",
+  // "Song-101 from Movie 101 (telugu)",
+  // "Song-102 from Movie 102 (telugu)",
+  // "Song-103 from Movie 103 (telugu)",
+  // "Song-104 from Movie 104 (telugu)",
+  // "Song-105 from Movie 105 (telugu)",
+  // "Song-106 from Movie 106 (telugu)",
+  // "Song-107 from Movie 107 (telugu)",
+  // "Song-108 from Movie 108 (telugu)",
+  // "Song-109 from Movie 109 (telugu)",
+  // "Song-110 from Movie 110 (telugu)",
+  // "Song-111 from Movie 111 (telugu)",
+  // "Song-112 from Movie 112 (telugu)",
+  // "Song-113 from Movie 113 (telugu)",
+  // "Song-114 from Movie 114 (telugu)",
+  // "Song-115 from Movie 115 (telugu)",
+  // "Song-116 from Movie 116 (telugu)",
+  // "Song-117 from Movie 117 (telugu)",
+  // "Song-118 from Movie 118 (telugu)",
+  // "Song-119 from Movie 119 (telugu)",
+  // "Song-120 from Movie 120 (telugu)",
 ];
 
 const song_img = [
@@ -133,14 +273,14 @@ const song_img = [
   "images/Dhruva-Telugu-2016-500x500.jpg", //23
   "images/Dhruva-Telugu-2016-500x500.jpg", //24
   "images/LR 3.jpg", //25
-  "images/blue-circle-circle-11563638474fkttn15ui7.png", //26
+  "images/KGF-Chapter-1-Telugu-2018-20190318131410-500x500.jpg", //26
   "images/Bahubali-The-Conclusion-Hindi-2017-500x500.jpg", //27
   "images/Thammudu-2000-500x500.jpg", //28
   "images/Guntur-Kaaram-Telugu-2023-20240126145901-500x500.jpg", //29
   "images/KGF-Chapter-2-Hindi-2022-20220522091045-500x500.jpg", //30
-  "images/Dhruva-Telugu-2016-500x500.jpg", //31
+  "images/Kushi-Telugu-Telugu-2024-20240427063438-500x500.jpg", //31
   "images/Guntur-Kaaram-Telugu-2023-20240126145901-500x500.jpg", //32
-  "images/blue-circle-circle-11563638474fkttn15ui7.png", //33
+  "images/bahubali 1.jpg", //33
   "images/Pushpa-The-Rise-Telugu-2021-20211216115409-500x500.jpg", //34
   "images/Thammudu-2000-500x500.jpg", //35
   "images/Tillu-Square-Telugu-2023-20240405190047-500x500.jpg", //36
@@ -150,14 +290,141 @@ const song_img = [
   "images/Nenu-Sailaja-Telugu-2015-500x500.jpg", //40
   "images/Thammudu-2000-500x500.jpg", //41
   "images/KGF-Chapter-1-Telugu-2018-20190318131410-500x500.jpg", //42
-  "images/Pushpa-The-Rise-Telugu-2021-20211216115409-500x500.jpg", //43
-  "images/Thammudu-2000-500x500.jpg", //44
+  "images/Guntur-Kaaram-Telugu-2023-20240126145901-500x500.jpg", //43
+  "images/Guntur-Kaaram-Telugu-2023-20240126145901-500x500.jpg", //44
   "images/Pushpa-The-Rise-Telugu-2021-20211216115409-500x500.jpg", //45
   "images/Dhruva-Telugu-2016-500x500.jpg", //46
   "images/Orange-Telugu-2006-20210624180302-500x500.jpg", //47
   "images/Orange-Telugu-2006-20210624180302-500x500.jpg", //48
   "images/Orange-Telugu-2006-20210624180302-500x500.jpg", //49
   "images/KGF-Chapter-2-Hindi-2022-20220522091045-500x500.jpg", //50
+  // "https://c.saavncdn.com/100/Idiot-Telugu-2002-20200616185725-500x500.jpg", //51
+  // "", //52
+  // "", //53
+  // "", //54
+  // "", //55
+  // "", //56
+  // "", //57
+  // "", //58
+  // "", //59
+  // "", //60
+  // "", //52
+  // "", //53
+  // "", //54
+  // "", //55
+  // "", //56
+  // "", //57
+  // "", //58
+  // "", //59
+  // "", //60
+  // "", //52
+  // "", //53
+  // "", //54
+  // "", //55
+  // "", //56
+  // "", //57
+  // "", //58
+  // "", //59
+  // "", //60
+  // "", //52
+  // "", //53
+  // "", //54
+  // "", //55
+  // "", //56
+  // "", //57
+  // "", //58
+  // "", //59
+  // "", //60
+  // "", //52
+  // "", //53
+  // "", //54
+  // "", //55
+  // "", //56
+  // "", //57
+  // "", //58
+  // "", //59
+  // "", //60
+  // "", //52
+  // "", //53
+  // "", //54
+  // "", //55
+  // "", //56
+  // "", //57
+  // "", //58
+  // "", //59
+  // "", //60
+  // "", //52
+  // "", //53
+  // "", //54
+  // "", //55
+  // "", //56
+  // "", //57
+  // "", //58
+  // "", //59
+  // "", //60
+  // "", //52
+  // "", //53
+  // "", //54
+  // "", //55
+  // "", //56
+  // "", //57
+  // "", //58
+  // "", //59
+  // "", //60
+  // "", //52
+  // "", //53
+  // "", //54
+  // "", //55
+  // "", //56
+  // "", //57
+  // "", //58
+  // "", //59
+  // "", //60
+  // "", //52
+  // "", //53
+  // "", //54
+  // "", //55
+  // "", //56
+  // "", //57
+  // "", //58
+  // "", //59
+  // "", //60
+  // "", //52
+  // "", //53
+  // "", //54
+  // "", //55
+  // "", //56
+  // "", //57
+  // "", //58
+  // "", //59
+  // "", //60
+  // "", //52
+  // "", //53
+  // "", //54
+  // "", //55
+  // "", //56
+  // "", //57
+  // "", //58
+  // "", //59
+  // "", //60
+  // "", //52
+  // "", //53
+  // "", //54
+  // "", //55
+  // "", //56
+  // "", //57
+  // "", //58
+  // "", //59
+  // "", //60
+  // "", //52
+  // "", //53
+  // "", //54
+  // "", //55
+  // "", //56
+  // "", //57
+  // "", //58
+  // "", //59
+  // "", //60
 ];
 
 const song_link = [
@@ -192,7 +459,7 @@ const song_link = [
   "Music/Made In Andhra Student-SenSongsMp3.Co.mp3", //28
   "Music/Mawaa Enthaina.mp3", //29
   "Music/Mehabooba.mp3", //30
-  "Music/Neethoney Dance-SenSongsMp3.Co.mp3", //31
+  "Music/Aradhya.mp3", //31
   "Music/Oh My Baby.mp3", //32
   "Music/Oka Praanam-SenSongsMp3.Co.mp3", //33
   "Music/Oo Antava Oo Oo Antava.mp3", //34
@@ -212,4 +479,14 @@ const song_link = [
   "Music/1-Ola Olaala Ala-SenSongsMp3.Co.mp3", //48
   "Music/6-Rooba Rooba-SenSongsMp3.Co.mp3", //49
   "Music/Mehabooba.mp3", //50
+  // "https://www.jiosaavn.com/song/choopultho-guchi/AyYnSwBYTms", //51
+  // "", //52
+  // "", //53
+  // "", //54
+  // "", //55
+  // "", //56
+  // "", //57
+  // "", //58
+  // "", //59
+  // "", //60
 ];
